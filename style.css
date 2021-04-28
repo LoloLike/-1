@@ -1,0 +1,29 @@
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+td {
+  border: 1px solid black;
+  width: 30px;
+  height: 30px;
+}
+
+button {
+	margin-top: 15px;
+}
+
+body {
+	text-align: center;
+	background-color: gray;
+	color: white;
+}
+
+div {
+	border: 5px solid black;
+	border-radius: 8px;
+	padding: 10px;
+	background-image: url(lake.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
